@@ -1,6 +1,6 @@
 # Live Switch
 
-## Demo project with LiveSwitchCloud integration
+## Demo project with LiveSwitchCloud https://console.liveswitch.io/ integration
 
 Some code are copipasted around. Settings and secrets are hardcoded :(
 
